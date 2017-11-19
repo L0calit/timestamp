@@ -5,7 +5,7 @@
 
   "name": "timestamp-app",
   "version": "0.0.1",
-  "description": "Read the readme,
+  "description": "Read the readme",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
